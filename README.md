@@ -1,2 +1,1 @@
-"Branching, Making Changes, and Resolving Merge Conflicts" 
-"Modification in main branch." 
+-e "Modification in main branch.\nModification in feature-greeting branch." 
